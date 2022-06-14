@@ -8,14 +8,9 @@
 <img src="images/dog_collage2.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Wildlife Image Classification](https://github.com/lgonzal6/Wildlife_Image_Classification)
+<img src="images/wild_life.jpeg?raw=true"/>
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
 
 ### Category Name 2
 
