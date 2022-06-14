@@ -12,13 +12,10 @@
 <img src="images/wild_life2.jpeg?raw=true"/>
 
 
-### Category Name 2
+### Natural Language Processing (NLP)
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Tacobell Subreddit NLP](https://github.com/lgonzal6/tacobell_reddit_nlp)
+
 
 ---
 
