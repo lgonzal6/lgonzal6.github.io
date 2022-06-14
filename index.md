@@ -1,10 +1,10 @@
-## Portfolio
+## Data Science Projects
 
 ---
 
-### Category Name 1 
+### CNN Image Classification 
 
-[Project 1 Title](/sample_page)
+[Dog Breed Classifer](https://github.com/lgonzal6/dog_breed_classifier)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
