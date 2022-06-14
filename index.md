@@ -9,7 +9,7 @@
 
 ---
 [Wildlife Image Classification](https://github.com/lgonzal6/Wildlife_Image_Classification)
-<img src="images/wild_life.jpeg?raw=true"/>
+<img src="images/wild_life2.jpeg?raw=true"/>
 
 
 ### Category Name 2
