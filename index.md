@@ -19,7 +19,7 @@ This project uses tensorflow's InceptionV3 to build an image classification mode
 ### Natural Language Processing (NLP)
 
 [Tacobell Subreddit NLP](https://github.com/lgonzal6/tacobell_reddit_nlp)
-<img src="images/wild_life2.jpeg?raw=true"/>
+<img src="images/reddit.jpeg?raw=true"/>
 
 
 
