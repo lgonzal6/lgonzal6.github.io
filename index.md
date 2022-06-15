@@ -21,9 +21,11 @@ This project uses tensorflow's InceptionV3 to build an image classification mode
 [Tacobell Subreddit NLP](https://github.com/lgonzal6/tacobell_reddit_nlp)
 <img src="images/reddit.jpeg?raw=true"/>
 
-
-
-
-
 ---
 
+### Regression Analysis 
+
+[Aimes, IO Housing Analysis](https://github.com/lgonzal6/aimes_iowa_housing)
+<img src="images/reddit.jpeg?raw=true"/>
+
+---
