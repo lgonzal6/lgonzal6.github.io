@@ -26,6 +26,6 @@ This project uses tensorflow's InceptionV3 to build an image classification mode
 ### Regression Analysis 
 
 [Aimes, IO Housing Analysis](https://github.com/lgonzal6/aimes_iowa_housing)
-<img src="images/reddit.jpeg?raw=true"/>
+<img src="images/housing.jpeg?raw=true"/>
 
 ---
