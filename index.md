@@ -8,7 +8,8 @@
 <img src="images/dog_collage2.png?raw=true"/>
 
 #### Description
-This project uses tensorflow's InceptionV3 to build an image classification model...etc
+Dog shelters suffer from a high rate of dog breed misclassifications. Dog breeds, however, can provide import insight into a dog’s health and behavioral predispositions. Therefore, I sought to test whether a Convolutional Neural Network can improve breed classification rates. I used InceptionV3 for the model’s architecture, paired with EarlyStop and ReduceLROnPlateau. For the images, I used the Stanford Dog Dataset. Despite several issues with the dataset, the model achieved an 86% accuracy across all breeds, furthermore, 60% of breeds had recall scores of 90% or more. Please visit my Github repository for more information.
+
 
 ---
 [Wildlife Image Classification](https://github.com/lgonzal6/Wildlife_Image_Classification)
