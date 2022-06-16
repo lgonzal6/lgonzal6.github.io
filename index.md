@@ -34,4 +34,8 @@ Taco Bell holds the largest share of the Mexican-style restaurant market in the 
 [Aimes, IO Housing Analysis](https://github.com/lgonzal6/aimes_iowa_housing)
 <img src="images/housing.jpeg?raw=true"/>
 
+#### Description 
+
+Home sellers desire to optimize the sale price for their homes. Many seek to increase home values by making home improvement and renovations . These projects, however, can be very costly and owners should undertake such investment only if they can reasonably expect the home price to increase by a larger dollar amount than the cost of the project. This project analysis home sale data to estimate the home value increase related to home improvements. Owners can then use the results from this analysis to determine whether there is a financial benefit to certain renovation projects.
+
 ---
