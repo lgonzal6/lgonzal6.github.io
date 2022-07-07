@@ -28,7 +28,15 @@ Conservationist at Tai National Park have set up camera traps at 148 sites throu
 Taco Bell holds the largest share of the Mexican-style restaurant market in the U.S. A main driver of Taco Bell’s success is their product innovation. While Taco Bell has successfully incorporated popular elements of Mexican cuisine to craft an exciting menu, this project incorporates Natural Language Processing to search for other elements of Mexican cuisine that is currently missing at Taco Bell. This project pulls posts from the r/tacobell and r/mexicanfood subreddits to compare popular food items in both groups. By building models that can distinguish post from both subreddits with a 90% accuracy, we are able to extract food items that are most distinctive of each group, and thereby highlight popular Mexican food items that are missing from Taco Bell’s menu. 
 
 ---
+### Recommender System
 
+[Netflix Recommnder System with Surprise Library](https://github.com/lgonzal6/netflix_recommender_surprise)
+<img src="images/dog_collage2.png?raw=true"/>
+
+#### Description
+This project explores Netflix's movie database and creates a recommender system using collaborative filtering. The data included Movie_ID, User_ID, and Rating (1 - 5 scale). To create the the recommender system, we used the Surprise library created by Nicolas Hug. We compare results from three different algorithms: BaselineOnly, KNNWithMeans, and SVD. After obtaining the best rmse score from using SVD, we fine-tuned further using gridsearch. The resulting algorithm resulted in a rmse of 0.88, and a mae of 0.70. Further exploring the errors revealed that the vast majority of ratings were mispredicted by 1 ratign point or less. 
+
+---
 ### Regression Analysis 
 
 [Aimes, IO Housing Analysis](https://github.com/lgonzal6/aimes_iowa_housing)
