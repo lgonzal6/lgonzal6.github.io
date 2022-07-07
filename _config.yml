@@ -8,5 +8,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <a href="https://drive.google.com/file/d/1nXB-Z9TxuUzx8ByAysClgyGc7-KCPiwo/view">View My Resume</a> 
   
+  <br><br>
+  
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
