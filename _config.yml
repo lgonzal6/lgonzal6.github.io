@@ -3,7 +3,10 @@ logo: "/images/IMG_4645.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Throughout a career in funding allocation and operations management, I've leveraged data and technology to make informed and measured decisions. Discovering a passion for data, I delved deeper into data science and learned to design and train a wide range of models that can address almost any organizational need.
   <br><br>
-  <a href="https://www.linkedin.com/in/luisagonzalezdatascience/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/luisagonzalezdatascience/">View My LinkedIn Profile</a>
+  
+  <br><br>
+  <a href="https://drive.google.com/file/d/1nXB-Z9TxuUzx8ByAysClgyGc7-KCPiwo/view">View My Resume</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
