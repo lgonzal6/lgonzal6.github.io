@@ -44,9 +44,9 @@ This project explores Netflix's movie database and creates a recommender system 
 
 #### Description 
 
-Online clothing retailers can provide shoppers a little more confidence in their purchases by providing size suggestions. In this project, we fine-tune several classifier algorithms including LogisticRegression, KNeighborsClassifier, DecisionTreeClassifier, BaggingClassifier and AdaBoost to best predict size based on the data provided. In this scenario, our dataset includes 119,734 rows providing a shopper's weight (kg), age, height (cm), and size. There are 7 sizes: 'XXS', 'S', 'M', 'L', 'XL', 'XXL', 'XXXL'. However, predicting size is tricky, because it depends on only on the variables at hand, but also fit preferrence, and body shape. 
+Online clothing retailers can provide shoppers a little more confidence in their purchases by providing size suggestions. In this project, we fine-tune several classifier algorithms including LogisticRegression, KNeighborsClassifier, DecisionTreeClassifier, BaggingClassifier and AdaBoost to best predict size based on the data provided. However, predicting size is tricky, because it depends on fit preferrence, and body shape, and these details are not provided in the data. 
 
-The final model resulted in an accuracy score of 52%, which upon first impression may not seem impressive. Note, that is not a surprising result given the challenges mentioned above. However, most errors were made within neighborhing sizes, which makes these predictions useful in providing shoppers suggestions, so long as we ask additional questions: (1) fit preference, and (2) body shape. Given that we can pair predictions to their probabilities, we can use the additiona questions to provide shoppers with a suggestions, based on the confidence we have in the predictions. 
+The final model resulted in an accuracy score of 52%, which upon first impression may not seem impressive. However, most errors were made within neighborhing sizes, which makes these predictions useful to providing shoppers suggestions, so long as we ask additional questions: (1) fit preference, and (2) body shape. Given that we can pair predictions to their probabilities, we can provide suggestions based on the confidence we have on the predictions. 
 
 ---
 
