@@ -34,7 +34,7 @@ Taco Bell holds the largest share of the Mexican-style restaurant market in the 
 <img src="images/recommend.jpg?raw=true"/>
 
 #### Description
-This project explores Netflix's movie database and creates a recommender system using collaborative filtering. The data included Movie_ID, User_ID, and Rating (1 - 5 scale). To create the the recommender system, we used the Surprise library created by Nicolas Hug. We compare results from three different algorithms: BaselineOnly, KNNWithMeans, and SVD. After obtaining the best rmse score from using SVD, we fine-tuned further using gridsearch. The resulting algorithm resulted in a rmse of 0.88, and a mae of 0.70. Further exploring the errors revealed that the vast majority of ratings were mispredicted by 1 ratign point or less. 
+This project explores Netflix's movie database and creates a recommender system using collaborative filtering. The data included Movie_ID, User_ID, and Rating (1 - 5 scale). To create the the recommender system, we used the Surprise library created by Nicolas Hug. We compare results from three different algorithms: BaselineOnly, KNNWithMeans, and SVD. After obtaining the best rmse score from using SVD, we fine-tuned further using gridsearch. The best algorithm resulted in a rmse of 0.88, and a mae of 0.70. Further exploring the errors revealed that the vast majority of ratings were mispredicted by 1 rating point or less. 
 
 ---
 ### Regression Analysis 
@@ -44,6 +44,6 @@ This project explores Netflix's movie database and creates a recommender system 
 
 #### Description 
 
-Home sellers desire to optimize the sale price for their homes. Many seek to increase home values by making home improvement and renovations . These projects, however, can be very costly and owners should undertake such investment only if they can reasonably expect the home price to increase by a larger dollar amount than the cost of the project. This project analysis home sale data to estimate the home value increase related to home improvements. Owners can then use the results from this analysis to determine whether there is a financial benefit to certain renovation projects.
+Home sellers desire to optimize the sale price for their homes. Many seek to increase home values by making home improvement and renovations . These projects, however, can be very costly and owners should undertake such investment only if they can reasonably expect the home price to increase by a larger dollar amount than the cost of the project. This project analyzes home sale data to estimate the home value increase related to home improvements. Owners can then use the results from this analysis to determine whether there is a financial benefit to certain renovation projects.
 
 ---
