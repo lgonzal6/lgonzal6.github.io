@@ -40,7 +40,7 @@ This project explores Netflix's movie database and creates a recommender system 
 ### Regression and Classification Analysis
 
 [Clothing Size Predictor](https://github.com/lgonzal6/clothes_size_prediction)
-<img src="images/housing.jpeg?raw=true"/>
+<img src="images/clothes.jpeg?raw=true"/>
 
 #### Description 
 
