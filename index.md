@@ -12,7 +12,7 @@ Dog shelters suffer from a high rate of dog breed misclassifications. Dog breeds
 
 
 ---
-[Wildlife Image Classification](https://github.com/lgonzal6/Wildlife_Image_Classification)
+[**Wildlife Image Classification**](https://github.com/lgonzal6/Wildlife_Image_Classification)
 <img src="images/wild_life2.jpeg?raw=true"/>
 
 #### Description
@@ -22,15 +22,16 @@ Conservationist at Tai National Park have set up camera traps at 148 sites throu
 ---
 ### Natural Language Processing (NLP)
 
-[Tacobell Subreddit NLP](https://github.com/lgonzal6/tacobell_reddit_nlp)
+[**Tacobell Subreddit NLP**](https://github.com/lgonzal6/tacobell_reddit_nlp)
 <img src="images/reddit.jpeg?raw=true"/>
+
 #### Description
 Taco Bell holds the largest share of the Mexican-style restaurant market in the U.S. A main driver of Taco Bell’s success is their product innovation. While Taco Bell has successfully incorporated popular elements of Mexican cuisine to craft an exciting menu, this project incorporates Natural Language Processing to search for other elements of Mexican cuisine that is currently missing at Taco Bell. This project pulls posts from the r/tacobell and r/mexicanfood subreddits to compare popular food items in both groups. By building models that can distinguish post from both subreddits with a 90% accuracy, we are able to extract food items that are most distinctive of each group, and thereby highlight popular Mexican food items that are missing from Taco Bell’s menu. 
 
 ---
 ### Recommender System
 
-[Netflix Recommnder System with Surprise Library](https://github.com/lgonzal6/netflix_recommender_surprise)
+[**Netflix Recommnder System with Surprise Library**](https://github.com/lgonzal6/netflix_recommender_surprise)
 <img src="images/recommend.jpg?raw=true"/>
 
 #### Description
@@ -39,7 +40,7 @@ This project explores Netflix's movie database and creates a recommender system 
 ---
 ### Regression and Classification Analysis
 
-[Clothing Size Predictor](https://github.com/lgonzal6/clothes_size_prediction)
+[**Clothing Size Predictor**](https://github.com/lgonzal6/clothes_size_prediction)
 <img src="images/clothes.jpeg?raw=true"/>
 
 #### Description 
@@ -50,7 +51,7 @@ The final model resulted in an accuracy score of 52%, which upon first impressio
 
 ---
 
-[Aimes, IO Housing Analysis](https://github.com/lgonzal6/aimes_iowa_housing)
+[**Aimes, IO Housing Analysis**](https://github.com/lgonzal6/aimes_iowa_housing)
 <img src="images/housing.jpeg?raw=true"/>
 
 #### Description 
