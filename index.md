@@ -4,7 +4,7 @@
 
 ### CNN Image Classification 
 
-[Dog Breed Classifer](https://github.com/lgonzal6/dog_breed_classifier)
+[**Dog Breed Classifer**](https://github.com/lgonzal6/dog_breed_classifier)
 <img src="images/dog_collage2.png?raw=true"/>
 
 #### Description
